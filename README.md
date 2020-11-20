@@ -1,6 +1,6 @@
 # raindrop-detection-on-a-windshield
 
-Raindrop detection on a windshield using image processing, this script generate too a binary mask.
+Raindrop detection on a windshield using image processing.
 
 
 
