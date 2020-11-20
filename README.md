@@ -3,10 +3,10 @@
 Raindrop detection on a windshield using image processing.
 
 ## Requirements
-opencv
-statistics
-argparse
-timeit
+opencv<br/>
+statistics<br/>
+argparse<br/>
+timeit<br/>
 
 
 ## Usage
