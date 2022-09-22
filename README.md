@@ -20,4 +20,3 @@ python raindrop_detection.py -i image_path
 
 
 
-we are actually working on a CNN model to detect raindrop on windshield
